@@ -1,3 +1,3 @@
-# Clase-
+# Class-
 
 Updates on OOP
